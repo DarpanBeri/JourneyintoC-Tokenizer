@@ -1,5 +1,5 @@
 ## Tokenizer in C++
-**Note:**Tokenizer for a future project. The only valid tokens are: push, pop, add, sub, mul, div, mod, skip, save, get and any valid integer.
+**Note:** Tokenizer for a future project. The only valid tokens are: push, pop, add, sub, mul, div, mod, skip, save, get and any valid integer.
 
 #### Files included:
     Prog2_1.hpp:
