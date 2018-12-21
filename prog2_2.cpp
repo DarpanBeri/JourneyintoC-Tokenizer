@@ -6,7 +6,6 @@
 using namespace std;
 
 int main(int argc, char* argv[]){
-    cout << "Assignment #2-2, Darpan Beri, darpanberi.99@gmail.com"<<endl;
 
     ifstream txtFile(argv[1]);
     Tokenizer token;
