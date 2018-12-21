@@ -10,7 +10,7 @@
         Driver program which combines Prog2_1.c's features with being taking input from a file.
 
 #### Example compilation:
-    gcc prog2_2.cpp prog2_1.cpp -o prog2_2
+    g++ prog2_2.cpp prog2_1.cpp -o prog2_2
 
 #### Example execution:
     ./prog2_2 <file.txt>
